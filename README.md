@@ -1,2 +1,2 @@
 # InteractDoc
-An pocket disease diganizer.  
+An pocket disease diognizer.  
